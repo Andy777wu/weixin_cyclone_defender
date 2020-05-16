@@ -1,0 +1,21 @@
+.mint-header {
+    background-color: #fff;
+    color: rgba(29, 28, 28, 0.89);
+    font-size: 0.46rem;
+    font-weight: bold;
+    height: 1.5rem;
+    box-shadow: 0 4px 3px -2px #ccc;
+}
+
+.mint-navbar .mint-tab-item .mint-tab-item-label{
+    font-size: .44rem;
+}
+
+.mint-navbar .mint-tab-item.is-selected {
+    border-bottom: 1px solid #f66828;
+    color: #f66828;
+}
+
+.mint-msgbox-confirm {
+    color: #f66828;
+}
